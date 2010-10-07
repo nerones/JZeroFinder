@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="ceros/swing/" kind="src" path="ceros"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/nelson/workspace/Proyectosjava/jep-2.4.1-ext-1.1.1-gpl/dist/jep-2.4.1.jar"/>
+	<classpathentry kind="lib" path="/home/nelson/workspace/Proyectosjava/Ceros/jdom.jar"/>
+	<classpathentry kind="lib" path="/home/nelson/workspace/Proyectosjava/Ceros/JMathTeX-0.7pre.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
