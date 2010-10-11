@@ -1,6 +1,6 @@
 JZeroFinder es una mini aplicación con interfaz gráfica dedicada a encontrar ceros en funciones no lineales y polinomios, además resolver ecuaciones matriciales Ax=b mediante métodos numéricos que fueron estudiados en la cátedra de Calculo Numérico de la Universidad Nacional de Salta.
 Si bien es cierto que es posible utilizar otras herramientas especializadas para resolver este tipo de problemas, JZeroFinder fue echo con fines educativos.
-
+Version 0.0.1alpha : Es liberada la version 0.0.1 en el archivo ZeroFinder_0.0.1.jar en el cual funcionan todos los metodos disponibles y estan empaquetadas todas las librerias extras, pero aun falta pulir la interfaz de usuario y ademas no tiene un manual de usuario.
 Usa 3 librerias: 
 	-JMathTex http://jmathtex.sourceforge.net/
 	-JDOM web site at http://jdom.org/.
